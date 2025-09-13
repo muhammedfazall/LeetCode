@@ -4,7 +4,7 @@
  */
 var createCounter = function(init) {
     let curr = init;
-    let obj={
+    return obj={
         increment : function(){
            curr++;
            return curr;
@@ -18,7 +18,6 @@ var createCounter = function(init) {
            return curr;
         }
     }
-    return obj;
 };
 
 /**
