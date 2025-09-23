@@ -9,12 +9,11 @@ function memoize(fn) {
         const key = JSON.stringify(args);
         if(cache.has(key)){
             return cache.get(key)
-        }else{
-           const result = fn(...args);
-           callCount++;
-           cache.set(key,result)
-           return result
         }
+        const result = fn(...args);
+        callCount++;
+        cache.set(key,result)
+        return result
     }
 }
 
