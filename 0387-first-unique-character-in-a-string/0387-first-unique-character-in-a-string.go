@@ -1,12 +1,12 @@
 func firstUniqChar(s string) int {
-    freq := make(map[byte]int)
+    freq := make(map[rune]int)
 
-    for i := range s{
-        freq[s[i]]++
+    for _,ch := range s{
+        freq[ch]++
     }
 
-    for i := range s{
-        if freq[s[i]] == 1{
+    for i,ch := range s{
+        if freq[ch] == 1{
             return i
         }
     }
