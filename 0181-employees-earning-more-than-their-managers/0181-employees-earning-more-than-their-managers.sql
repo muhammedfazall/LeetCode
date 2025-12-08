@@ -1,5 +1,4 @@
-# Write your MySQL query statement below
-
+-- Write your PostgreSQL query statement below
 SELECT e.name AS Employee from employee AS e
 join employee AS m
 on e.managerId = m.id
