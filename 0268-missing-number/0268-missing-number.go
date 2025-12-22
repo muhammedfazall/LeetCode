@@ -1,14 +1,9 @@
 func missingNumber(nums []int) int {
-    m := map[int]int{}
-    n := len(nums)
-        for i := 0 ; i <= n - 1 ; i++{
-            m[nums[i]] = i 
-        }
-
-        for i := 0 ; i <= n ; i++{
-           if _,ok := m[i] ; !ok {
-            return i
-           }    
-        }
-    return 0
+	n := len(nums)
+	actualS := 0
+	expectedS := n * (n + 1) / 2
+	for _, v := range nums {
+		actualS += v
+	}
+	return expectedS - actualS
 }
