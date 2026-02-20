@@ -1,13 +1,19 @@
 func isAnagram(s string, t string) bool {
-    return SortSlice(s) == SortSlice(t)
-}
+    if len(s) != len(t){
+        return false
+    }
 
-func SortSlice(s string) string {
-    r := []rune(s)
+    freq := make(map[rune]int)
 
-    sort.Slice(r, func(i,j int) bool {
-        return r[i] < r[j]
-    })
+    for _,ch := range s{
+        freq[ch]++
+    }
 
-    return string(r)
+    for _,ch := range t{
+        freq[ch]--
+        if freq[ch] < 0 {
+            return false
+        }
+    }
+    return true
 }
