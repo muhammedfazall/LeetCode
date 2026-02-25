@@ -1,25 +1,22 @@
 func longestPalindrome(s string) string {
-	n := len(s)
-	if n <= 1 {
-		return s
-	}
-	longest := s[0:1]
-	for i := 0; i < n; i++ {
-		for j := i + 1; j <= n; j++ {
-			temp := s[i:j]
-			if len(temp) > len(longest) && IsPalindrome(temp) {
-				longest = temp
-			}
+	longest := ""
+	for i := 0; i < len(s); i++ {
+		odd := expand(s, i, i)
+		even := expand(s, i, i+1)
+		if len(odd) > len(longest) {
+			longest = odd
+		}
+        if len(even) > len(longest) {
+			longest = even
 		}
 	}
 	return longest
 }
 
-func IsPalindrome(s string) bool {
-	for i, j := 0, len(s)-1; i < j; i, j = i+1, j-1 {
-		if s[i] != s[j] {
-			return false
-		}
+func expand(s string, l, r int) string {
+	for l >= 0 && r <= len(s)-1 && s[l] == s[r] {
+		l--
+		r++
 	}
-	return true
+	return s[l+1 : r]
 }
