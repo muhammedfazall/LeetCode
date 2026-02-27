@@ -6,8 +6,8 @@ func findDifference(nums1 []int, nums2 []int) [][]int {
     for _,v := range nums1{ s1[v] = true }
     for _,v := range nums2{ s2[v] = true }
 
-    var diff1 int[]
-    var diff2 int[]
+    var diff1 []int
+    var diff2 []int
 
     for n := range s1{
         if !s2[n] {
