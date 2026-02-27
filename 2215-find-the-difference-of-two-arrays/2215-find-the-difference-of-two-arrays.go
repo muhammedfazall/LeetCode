@@ -6,19 +6,20 @@ func findDifference(nums1 []int, nums2 []int) [][]int {
     for _,v := range nums1{ s1[v] = true }
     for _,v := range nums2{ s2[v] = true }
 
-    answer := make([][]int,2)
+    var diff1 int[]
+    var diff2 int[]
 
     for n := range s1{
         if !s2[n] {
-            answer[0] = append(answer[0],n)
+            diff1 = append(diff1,n)
         }
     }
 
     for n := range s2{
         if !s1[n] {
-            answer[1] = append(answer[1],n)
+            diff2 = append(diff2,n)
         }
     }
 
-    return answer
+    return [][]int{diff1,diff2}
 }
