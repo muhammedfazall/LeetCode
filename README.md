@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/muhammedfazall/LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/muhammedfazall/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/muhammedfazall/LeetCode/tree/master/0182-duplicate-emails) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/muhammedfazall/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
