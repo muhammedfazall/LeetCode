@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/muhammedfazall/LeetCode/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/muhammedfazall/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/muhammedfazall/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0595-big-countries](https://github.com/muhammedfazall/LeetCode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/muhammedfazall/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/muhammedfazall/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/muhammedfazall/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
