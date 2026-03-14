@@ -1,15 +1,23 @@
 func areOccurrencesEqual(s string) bool {
 	m := make(map[rune]int)
-	count := 0
+
 	for _, ch := range s {
 		m[ch]++
-		count = m[ch]
 	}
 
-	for k,_ := range m {
-		if m[k] != count {
-			return false
-		}
+    if len(m) == 1 {
+        return true
+    }
+
+    var count int
+	for _,v := range m {
+		count = v
 	}
+
+    for _,v := range m{
+        if v != count{
+            return false
+        }
+    }
 	return true
 }
