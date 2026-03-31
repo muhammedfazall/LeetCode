@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/muhammedfazall/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/muhammedfazall/LeetCode/tree/master/0066-plus-one) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammedfazall/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/muhammedfazall/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedfazall/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3024-type-of-triangle](https://github.com/muhammedfazall/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
