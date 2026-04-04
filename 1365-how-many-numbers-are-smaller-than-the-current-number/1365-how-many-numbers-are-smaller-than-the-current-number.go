@@ -8,7 +8,7 @@ func smallerNumbersThanCurrent(nums []int) []int {
                 continue
             } 
             if nums[j] < nums[i] {
-                count += 1
+                count++
             }
         }
         result[i] = count
