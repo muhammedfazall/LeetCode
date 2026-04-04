@@ -4,7 +4,10 @@ func smallerNumbersThanCurrent(nums []int) []int {
     for i:= 0 ; i < n ; i ++ {
         count := 0
         for j:= 0 ; j < n ; j ++ {
-            if j != i && nums[j] < nums[i]{
+            if j == i {
+                continue
+            } 
+            if nums[j] < nums[i] {
                 count += 1
             }
         }
