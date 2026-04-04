@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/muhammedfazall/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedfazall/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/muhammedfazall/LeetCode/tree/main/2652-sum-multiples/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/muhammedfazall/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3024-type-of-triangle](https://github.com/muhammedfazall/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 ## String
 | Problem Name | Difficulty |
