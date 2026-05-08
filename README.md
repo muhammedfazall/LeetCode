@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedfazall/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedfazall/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/muhammedfazall/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedfazall/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedfazall/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/muhammedfazall/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/muhammedfazall/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedfazall/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammedfazall/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammedfazall/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedfazall/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2942-find-words-containing-character](https://github.com/muhammedfazall/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/muhammedfazall/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
 ## Trie
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedfazall/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedfazall/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 <!---LeetCode Topics End-->
