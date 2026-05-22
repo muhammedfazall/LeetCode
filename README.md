@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedfazall/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2942-find-words-containing-character](https://github.com/muhammedfazall/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/muhammedfazall/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/muhammedfazall/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/muhammedfazall/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/muhammedfazall/LeetCode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedfazall/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/muhammedfazall/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
