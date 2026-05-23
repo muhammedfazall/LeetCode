@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedfazall/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/muhammedfazall/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/muhammedfazall/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
+| [2974-minimum-number-game](https://github.com/muhammedfazall/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/muhammedfazall/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedfazall/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedfazall/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2974-minimum-number-game](https://github.com/muhammedfazall/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/muhammedfazall/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -146,8 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedfazall/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2974-minimum-number-game](https://github.com/muhammedfazall/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/muhammedfazall/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/muhammedfazall/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
