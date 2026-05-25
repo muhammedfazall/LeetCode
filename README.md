@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/muhammedfazall/LeetCode/tree/master/0136-single-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedfazall/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedfazall/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1550-three-consecutive-odds](https://github.com/muhammedfazall/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/muhammedfazall/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedfazall/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/muhammedfazall/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
