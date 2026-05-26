@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/muhammedfazall/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/muhammedfazall/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/muhammedfazall/LeetCode/tree/master/0136-single-number) |
+| [0682-baseball-game](https://github.com/muhammedfazall/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedfazall/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedfazall/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/muhammedfazall/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/muhammedfazall/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/muhammedfazall/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/muhammedfazall/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/muhammedfazall/LeetCode/tree/main/0682-baseball-game/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/muhammedfazall/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedfazall/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2974-minimum-number-game](https://github.com/muhammedfazall/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 ## Matrix
