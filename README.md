@@ -177,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/muhammedfazall/LeetCode/tree/main/1114-print-in-order/) | Easy |
+| [1115-print-foobar-alternately](https://github.com/muhammedfazall/LeetCode/tree/main/1115-print-foobar-alternately/) | Medium |
 <!---LeetCode Topics End-->
