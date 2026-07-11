@@ -178,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/muhammedfazall/LeetCode/tree/main/1114-print-in-order/) | Easy |
 | [1115-print-foobar-alternately](https://github.com/muhammedfazall/LeetCode/tree/main/1115-print-foobar-alternately/) | Medium |
+| [1116-print-zero-even-odd](https://github.com/muhammedfazall/LeetCode/tree/main/1116-print-zero-even-odd/) | Medium |
 <!---LeetCode Topics End-->
