@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedfazall/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/muhammedfazall/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedfazall/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/muhammedfazall/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammedfazall/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammedfazall/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedfazall/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedfazall/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedfazall/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/muhammedfazall/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammedfazall/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Database
 | Problem Name | Difficulty |
