@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedfazall/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/muhammedfazall/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedfazall/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/muhammedfazall/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedfazall/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/muhammedfazall/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/muhammedfazall/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammedfazall/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammedfazall/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedfazall/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/muhammedfazall/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2942-find-words-containing-character](https://github.com/muhammedfazall/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/muhammedfazall/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/muhammedfazall/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammedfazall/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/muhammedfazall/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
