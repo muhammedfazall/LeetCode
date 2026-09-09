@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/muhammedfazall/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/muhammedfazall/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/muhammedfazall/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muhammedfazall/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/muhammedfazall/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/muhammedfazall/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3024-type-of-triangle](https://github.com/muhammedfazall/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/muhammedfazall/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muhammedfazall/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
