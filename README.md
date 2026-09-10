@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/muhammedfazall/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/muhammedfazall/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/muhammedfazall/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muhammedfazall/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/muhammedfazall/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muhammedfazall/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/muhammedfazall/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/muhammedfazall/LeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/muhammedfazall/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3024-type-of-triangle](https://github.com/muhammedfazall/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muhammedfazall/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/muhammedfazall/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muhammedfazall/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## String
