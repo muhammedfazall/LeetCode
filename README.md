@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammedfazall/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/muhammedfazall/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/muhammedfazall/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/muhammedfazall/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedfazall/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/muhammedfazall/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedfazall/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/muhammedfazall/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/muhammedfazall/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/muhammedfazall/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/muhammedfazall/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedfazall/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/muhammedfazall/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## String Matching
