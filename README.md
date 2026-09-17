@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/muhammedfazall/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/muhammedfazall/LeetCode/tree/master/0136-single-number) |
 | [0682-baseball-game](https://github.com/muhammedfazall/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/muhammedfazall/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedfazall/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedfazall/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/muhammedfazall/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/muhammedfazall/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedfazall/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedfazall/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2974-minimum-number-game](https://github.com/muhammedfazall/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
