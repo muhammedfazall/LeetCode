@@ -1,24 +1,25 @@
 func finalString(s string) string {
-    st := []byte(s)
-    str := []byte{}
 
-    for _,v := range st{
-        if v == 'i'{
-            reverse(str)
-        } else {
-        str = append(str,v)
-        }
-    }
-    return string(str)
+	str := []byte(s)
+	final := []byte{}
+
+	for _, v := range str {
+		if v == 'i' {
+			reverse(final)
+		} else {
+			final = append(final, v)
+		}
+	}
+	return string(final)
 }
 
 func reverse(s []byte) []byte {
-    l := 0
-    r := len(s) - 1
-    for l < r {
-        s[l],s[r] = s[r],s[l]
-        l++
-        r--
-    }
-    return s
+	l := 0
+	r := len(s) - 1
+	for l < r {
+		s[l], s[r] = s[r], s[l]
+		l++
+		r--
+	}
+	return s
 }
