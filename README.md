@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammedfazall/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammedfazall/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedfazall/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2129-capitalize-the-title](https://github.com/muhammedfazall/LeetCode/tree/main/2129-capitalize-the-title/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/muhammedfazall/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2810-faulty-keyboard](https://github.com/muhammedfazall/LeetCode/tree/main/2810-faulty-keyboard/) | Easy |
 | [2942-find-words-containing-character](https://github.com/muhammedfazall/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
