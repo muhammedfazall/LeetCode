@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/muhammedfazall/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/muhammedfazall/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/muhammedfazall/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/muhammedfazall/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedfazall/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedfazall/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedfazall/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/muhammedfazall/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/muhammedfazall/LeetCode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/muhammedfazall/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammedfazall/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/muhammedfazall/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/muhammedfazall/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammedfazall/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/muhammedfazall/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/muhammedfazall/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/muhammedfazall/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/muhammedfazall/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/muhammedfazall/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/muhammedfazall/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -202,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/muhammedfazall/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/muhammedfazall/LeetCode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
